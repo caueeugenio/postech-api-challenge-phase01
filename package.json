@@ -1,0 +1,22 @@
+{
+  "name": "api-challenge-phase01",
+  "version": "1.0.0",
+  "description": "a simple api challenge for Pos Tech - Full Stack Development phase 01",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cauê Eugênio",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.0",
+    "tsx": "^4.7.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.12.4",
+    "typescript": "^5.4.4"
+  }
+}
