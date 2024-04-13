@@ -19,7 +19,7 @@
 <code>3. npm run dev</code>
 
 <h3>⚠️ Observações</h3>
-<p>A API foi desenvolvida utilizando a biblioteca mongoose em conjunto com o MongoDb, para conseguir testar localmente você terá que criar um cluster gratuitamente através do https://cloud.mongodb.com/ ou adaptar o server.ts para ser utilizado com outro banco de dados de sua preferencia.</p>
+<p>A API foi desenvolvida utilizando a biblioteca mongoose em conjunto com o MongoDb, para conseguir testar localmente você terá que criar um banco de dados gratuitamente através do https://cloud.mongodb.com/ ou adaptar o server.ts para ser utilizado com outro banco de dados de sua preferencia.</p>
 
 <h3>Tecnologias Utilizadas</h3>
 <p>MongoDB ✅ Mongoose ✅ TypeScript ✅ Express ✅</p>
